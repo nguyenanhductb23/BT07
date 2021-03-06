@@ -10,4 +10,4 @@ B1. Output:
            
 B2. Chỉ có lệnh *p = 5; mới gán cho i giá trị bằng 5
 
-B3. Lỗi do c là biến kiểu char, còn p là con trỏ trỏ đến biến kiểu double
+B3. Lỗi do c là biến kiểu char, còn p là con trỏ trỏ đến biến kiểu double (không đồng nhất về kiểu)
